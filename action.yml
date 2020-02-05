@@ -1,7 +1,7 @@
 name: 'Setup Kustomize '
 description: 'Setup kustomizee'
 inputs:
-  kustomize_version:  
+  version:
     description: 'Kustomize version to install'
     required: true
     default: '3.5.4'
